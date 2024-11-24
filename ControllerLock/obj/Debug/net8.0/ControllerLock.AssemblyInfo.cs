@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControllerLock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ee962737ded1b2a0f54abaf057d73fd716d84c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControllerLock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControllerLock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

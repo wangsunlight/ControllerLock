@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\ControllerLock\\ControllerLock\\ControllerLock.csproj",
+      "projectUniqueName": "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock\\ControllerLock.csproj",
       "projectName": "ControllerLock",
-      "projectPath": "D:\\Project\\ControllerLock\\ControllerLock\\ControllerLock.csproj",
+      "projectPath": "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock\\ControllerLock.csproj",
       "packagesPath": "C:\\Users\\zhaoyang\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\ControllerLock\\ControllerLock\\obj\\",
+      "outputPath": "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zhaoyang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -80,7 +80,7 @@
       "code": "NU1803",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "正在通过 “HTTP” 源“http://nuget.escase.cn/repository/nuget-group/”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.escase.cn/repository/nuget-group/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\ControllerLock\\ControllerLock\\ControllerLock.csproj": {}
+    "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock\\ControllerLock.csproj": {}
   },
   "projects": {
-    "D:\\Project\\ControllerLock\\ControllerLock\\ControllerLock.csproj": {
+    "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock\\ControllerLock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\ControllerLock\\ControllerLock\\ControllerLock.csproj",
+        "projectUniqueName": "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock\\ControllerLock.csproj",
         "projectName": "ControllerLock",
-        "projectPath": "D:\\Project\\ControllerLock\\ControllerLock\\ControllerLock.csproj",
+        "projectPath": "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock\\ControllerLock.csproj",
         "packagesPath": "C:\\Users\\zhaoyang\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\ControllerLock\\ControllerLock\\obj\\",
+        "outputPath": "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zhaoyang\\AppData\\Roaming\\NuGet\\NuGet.Config",

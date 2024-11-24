@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WE+pBN693ss=",
+  "dgSpecHash": "4PfQHK4bSI0=",
   "success": true,
-  "projectFilePath": "D:\\Project\\ControllerLock\\ControllerLock.FreeRedis\\ControllerLock.FreeRedis.csproj",
+  "projectFilePath": "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock.FreeRedis\\ControllerLock.FreeRedis.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zhaoyang\\.nuget\\packages\\freeredis\\1.3.4\\freeredis.1.3.4.nupkg.sha512",
     "C:\\Users\\zhaoyang\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
@@ -12,7 +12,7 @@
       "code": "NU1803",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "正在通过 “HTTP” 源“http://nuget.escase.cn/repository/nuget-group/”运行“restore”操作。将来的版本中将删除非 HTTPS 访问权限。请考虑迁移到 “HTTPS” 源。"
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.escase.cn/repository/nuget-group/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
     }
   ]
 }

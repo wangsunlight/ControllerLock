@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Project\\ControllerLock\\ControllerLock.FreeRedis\\ControllerLock.FreeRedis.csproj": {}
+    "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock.FreeRedis\\ControllerLock.FreeRedis.csproj": {}
   },
   "projects": {
-    "D:\\Project\\ControllerLock\\ControllerLock.FreeRedis\\ControllerLock.FreeRedis.csproj": {
+    "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock.FreeRedis\\ControllerLock.FreeRedis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\ControllerLock\\ControllerLock.FreeRedis\\ControllerLock.FreeRedis.csproj",
+        "projectUniqueName": "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock.FreeRedis\\ControllerLock.FreeRedis.csproj",
         "projectName": "ControllerLock.FreeRedis",
-        "projectPath": "D:\\Project\\ControllerLock\\ControllerLock.FreeRedis\\ControllerLock.FreeRedis.csproj",
+        "projectPath": "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock.FreeRedis\\ControllerLock.FreeRedis.csproj",
         "packagesPath": "C:\\Users\\zhaoyang\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\ControllerLock\\ControllerLock.FreeRedis\\obj\\",
+        "outputPath": "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock.FreeRedis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zhaoyang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -30,8 +30,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Project\\ControllerLock\\ControllerLock\\ControllerLock.csproj": {
-                "projectPath": "D:\\Project\\ControllerLock\\ControllerLock\\ControllerLock.csproj"
+              "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock\\ControllerLock.csproj": {
+                "projectPath": "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock\\ControllerLock.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "D:\\Project\\ControllerLock\\ControllerLock\\ControllerLock.csproj": {
+    "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock\\ControllerLock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Project\\ControllerLock\\ControllerLock\\ControllerLock.csproj",
+        "projectUniqueName": "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock\\ControllerLock.csproj",
         "projectName": "ControllerLock",
-        "projectPath": "D:\\Project\\ControllerLock\\ControllerLock\\ControllerLock.csproj",
+        "projectPath": "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock\\ControllerLock.csproj",
         "packagesPath": "C:\\Users\\zhaoyang\\.nuget\\packages\\",
-        "outputPath": "D:\\Project\\ControllerLock\\ControllerLock\\obj\\",
+        "outputPath": "D:\\MyGit\\GitHub\\ControllerLock\\ControllerLock\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zhaoyang\\AppData\\Roaming\\NuGet\\NuGet.Config",

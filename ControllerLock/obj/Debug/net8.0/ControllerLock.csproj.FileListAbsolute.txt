@@ -9,3 +9,15 @@ D:\Project\ControllerLock\ControllerLock\obj\Debug\net8.0\ControllerLock.dll
 D:\Project\ControllerLock\ControllerLock\obj\Debug\net8.0\refint\ControllerLock.dll
 D:\Project\ControllerLock\ControllerLock\obj\Debug\net8.0\ControllerLock.pdb
 D:\Project\ControllerLock\ControllerLock\obj\Debug\net8.0\ref\ControllerLock.dll
+D:\MyGit\GitHub\ControllerLock\ControllerLock\bin\Debug\net8.0\ControllerLock.deps.json
+D:\MyGit\GitHub\ControllerLock\ControllerLock\bin\Debug\net8.0\ControllerLock.dll
+D:\MyGit\GitHub\ControllerLock\ControllerLock\bin\Debug\net8.0\ControllerLock.pdb
+D:\MyGit\GitHub\ControllerLock\ControllerLock\obj\Debug\net8.0\ControllerLock.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGit\GitHub\ControllerLock\ControllerLock\obj\Debug\net8.0\ControllerLock.AssemblyInfoInputs.cache
+D:\MyGit\GitHub\ControllerLock\ControllerLock\obj\Debug\net8.0\ControllerLock.AssemblyInfo.cs
+D:\MyGit\GitHub\ControllerLock\ControllerLock\obj\Debug\net8.0\ControllerLock.csproj.CoreCompileInputs.cache
+D:\MyGit\GitHub\ControllerLock\ControllerLock\obj\Debug\net8.0\ControllerLock.sourcelink.json
+D:\MyGit\GitHub\ControllerLock\ControllerLock\obj\Debug\net8.0\ControllerLock.dll
+D:\MyGit\GitHub\ControllerLock\ControllerLock\obj\Debug\net8.0\refint\ControllerLock.dll
+D:\MyGit\GitHub\ControllerLock\ControllerLock\obj\Debug\net8.0\ControllerLock.pdb
+D:\MyGit\GitHub\ControllerLock\ControllerLock\obj\Debug\net8.0\ref\ControllerLock.dll
