@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ControllerLock.Memory/1.0.0": {
+        "dependencies": {
+          "ControllerLock": "1.0.0"
+        },
+        "runtime": {
+          "ControllerLock.Memory.dll": {}
+        }
+      },
+      "ControllerLock/1.0.0": {
+        "runtime": {
+          "ControllerLock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ControllerLock.Memory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ControllerLock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

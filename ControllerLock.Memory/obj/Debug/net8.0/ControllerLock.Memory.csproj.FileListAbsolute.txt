@@ -1,0 +1,15 @@
+D:\Project\ControllerLock\ControllerLock.Memory\bin\Debug\net8.0\ControllerLock.Memory.deps.json
+D:\Project\ControllerLock\ControllerLock.Memory\bin\Debug\net8.0\ControllerLock.Memory.dll
+D:\Project\ControllerLock\ControllerLock.Memory\bin\Debug\net8.0\ControllerLock.Memory.pdb
+D:\Project\ControllerLock\ControllerLock.Memory\bin\Debug\net8.0\ControllerLock.dll
+D:\Project\ControllerLock\ControllerLock.Memory\bin\Debug\net8.0\ControllerLock.pdb
+D:\Project\ControllerLock\ControllerLock.Memory\obj\Debug\net8.0\ControllerLock.Memory.csproj.AssemblyReference.cache
+D:\Project\ControllerLock\ControllerLock.Memory\obj\Debug\net8.0\ControllerLock.Memory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ControllerLock\ControllerLock.Memory\obj\Debug\net8.0\ControllerLock.Memory.AssemblyInfoInputs.cache
+D:\Project\ControllerLock\ControllerLock.Memory\obj\Debug\net8.0\ControllerLock.Memory.AssemblyInfo.cs
+D:\Project\ControllerLock\ControllerLock.Memory\obj\Debug\net8.0\ControllerLock.Memory.csproj.CoreCompileInputs.cache
+D:\Project\ControllerLock\ControllerLock.Memory\obj\Debug\net8.0\Controll.DD255A3C.Up2Date
+D:\Project\ControllerLock\ControllerLock.Memory\obj\Debug\net8.0\ControllerLock.Memory.dll
+D:\Project\ControllerLock\ControllerLock.Memory\obj\Debug\net8.0\refint\ControllerLock.Memory.dll
+D:\Project\ControllerLock\ControllerLock.Memory\obj\Debug\net8.0\ControllerLock.Memory.pdb
+D:\Project\ControllerLock\ControllerLock.Memory\obj\Debug\net8.0\ref\ControllerLock.Memory.dll
