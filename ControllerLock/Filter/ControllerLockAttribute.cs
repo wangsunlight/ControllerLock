@@ -97,7 +97,7 @@ namespace ControllerLock.Filter
         private string GetLockKey(ActionExecutingContext context)
         {
             var sb = new StringBuilder();
-            sb.Append($"{context.ActionDescriptor.RouteValues["controller"]!.ToString()}_{context.ActionDescriptor.RouteValues["action"]!.ToString()}_");
+            sb.Append($"{context.Controller.GetType().FullName}_{context.ActionDescriptor.RouteValues["action"]!.ToString()}_");
 
             var lockArguments = _lockArguments.Split(',');
             if (string.IsNullOrEmpty(_lockArguments) || lockArguments.Length == 0)
