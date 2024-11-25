@@ -26,7 +26,7 @@ namespace ControllerLock.Filter
         /// <summary>
         /// 缓存参数
         /// </summary>
-        private readonly string _lockArguments;
+        private readonly string _lockParameters;
 
         /// <summary>
         /// 超时时间（秒）
@@ -52,13 +52,13 @@ namespace ControllerLock.Filter
         /// <summary>
         /// 控制器锁
         /// </summary>
-        /// <param name="lockArguments">缓存参数</param>
+        /// <param name="lockParameters">缓存参数</param>
         /// <param name="timeout">超时时间（秒）</param>
         /// <param name="isDelay">是否等待锁</param>
         /// <param name="isMd5">缓存key是否md5</param>
-        public ControllerLockAttribute(string lockArguments = "", int timeout = 10, bool isDelay = false, bool isMd5 = false)
+        public ControllerLockAttribute(string lockParameters = "", int timeout = 10, bool isDelay = false, bool isMd5 = false)
         {
-            _lockArguments = lockArguments;
+            _lockParameters = lockParameters;
             _timeout = timeout;
             _isMd5 = isMd5;
             _isDelay = isDelay;
@@ -99,8 +99,8 @@ namespace ControllerLock.Filter
             var sb = new StringBuilder();
             sb.Append($"{context.Controller.GetType().FullName}_{context.ActionDescriptor.RouteValues["action"]!.ToString()}_");
 
-            var lockArguments = _lockArguments.Split(',');
-            if (string.IsNullOrEmpty(_lockArguments) || lockArguments.Length == 0)
+            var lockArguments = _lockParameters.Split(',');
+            if (string.IsNullOrEmpty(_lockParameters) || lockArguments.Length == 0)
             {
                 foreach (var item in context.ActionArguments.Select(item => item.Value))
                 {
