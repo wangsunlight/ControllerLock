@@ -12,7 +12,7 @@ namespace ControllerLock.Test
 
             builder.Services.AddControllers();
 
-            builder.Services.AddFreeRedisControllerLock("106.15.239.67:6379,password=38gJschzyP7NMuH1,defaultDatabase=1");
+            builder.Services.AddFreeRedisControllerLock("106.15.239.67:6379,password=,defaultDatabase=1");
 
             //builder.Services.AddMemoryControllerLock();
 
